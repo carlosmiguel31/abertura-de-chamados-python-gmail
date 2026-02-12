@@ -130,4 +130,5 @@ Toda a lógica de negócio permanece centralizada no n8n, permitindo:
 - Integrações com múltiplos serviços internos
 - Manutenção simplificada
 
-O Bot atua apenas como interface de entrada e retorno estruturado das informações.#
+O Bot atua apenas como interface de entrada e retorno estruturado das informações.
+
